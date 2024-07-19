@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 👋 Hi, I’m Arpan Das!
 
 👀 I’m interested in unraveling the mysteries of data and transforming complex datasets into actionable insights. From predictive analytics to machine learning, I’m all about finding patterns and making data-driven decisions.
