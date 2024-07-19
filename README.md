@@ -10,16 +10,4 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I once used data analysis to optimize my video game strategy—because who says data science can’t be fun and games?
-
-🧩 What I Do
-  Data Wrangling: Transforming chaos into clarity.
-  Analytics: Uncovering hidden patterns and trends.
-  Machine Learning: Teaching machines to learn from the data they see.
-🔧 Tools I Use
-  Languages: Python, R, SQL
-  Platforms: Power BI, Jupyter Notebooks, TensorFlow
-  Skills: Data Visualization, Predictive Modeling, Statistical Analysis
-🌟 Fun Facts
-  I believe that data can solve almost any problem—if you know how to ask the right questions.
-  When I'm not coding, you might find me exploring new tech, experimenting with coffee recipes, or binge-watching sci-fi shows.
+⚡ Fun fact: When I'm not coding, you might find me exploring new tech, experimenting with coffee recipes, or binge-watching sci-fi shows.
