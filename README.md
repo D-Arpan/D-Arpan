@@ -1,15 +1,20 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">Hi 👋, I'm D-Arpan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-👋 Hi, I’m Arpan Das!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d-arpan&label=Profile%20views&color=0e75b6&style=flat" alt="d-arpan" /> </p>
 
-👀 I’m interested in unraveling the mysteries of data and transforming complex datasets into actionable insights. From predictive analytics to machine learning, I’m all about finding patterns and making data-driven decisions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-arpan" alt="d-arpan" /></a> </p>
 
-🌱 I’m currently learning advanced machine learning techniques and exploring the latest in AI trends. Always on the lookout for new challenges and ways to refine my skills.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ig_arpan_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_arpan_das" height="30" width="40" /></a>
+</p>
 
-💞️ I’m looking to collaborate on exciting data science projects, innovative analytics solutions, or anything that pushes the boundaries of what data can do. If you have a cool idea or project, let’s make magic happen!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-📫 How to reach me: You can shoot me a message here on GitHub or connect with me on LinkedIn for a chat.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-arpan&show_icons=true&locale=en&layout=compact" alt="d-arpan" /></p>
 
-😄 Pronouns: He/Him
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-arpan&show_icons=true&locale=en" alt="d-arpan" /></p>
 
-⚡ Fun fact: When I'm not coding, you might find me exploring new tech, experimenting with coffee recipes, or binge-watching sci-fi shows.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-arpan&" alt="d-arpan" /></p>
