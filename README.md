@@ -1,4 +1,4 @@
-👋 Hi, I’m @D-Arpan!
+👋 Hi, I’m Arpan Das!
 
 👀 I’m interested in unraveling the mysteries of data and transforming complex datasets into actionable insights. From predictive analytics to machine learning, I’m all about finding patterns and making data-driven decisions.
 
