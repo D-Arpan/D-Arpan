@@ -61,7 +61,7 @@
 - 📫 **How to reach me:** You can find me right here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/arpandas2003/).
 - 💬 **Let's Chat:** Have a cool project or just want to geek out about data? Let's connect and make something amazing!
 
-<div align="center">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <a href="https://www.instagram.com/ig_arpan_das/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
