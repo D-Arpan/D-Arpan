@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a data science enthusiast with a knack for turning com
 
 ## Get in Touch
 
-- 📫 **How to reach me:** You can find me right here on GitHub or connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/arpandas2003/)).
+- 📫 **How to reach me:** You can find me right here on GitHub or connect with me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/arpandas2003/).
 - 💬 **Let's Chat:** Have a cool project or just want to geek out about data? Let's connect and make something amazing!
 
 ## Pronouns
