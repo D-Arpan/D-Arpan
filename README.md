@@ -66,7 +66,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
   <a href="https://twitter.com/aRpAnDa74497753" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.disobey.gg%2Fblog%2Fdownload-twitters-new-x-logo-here&psig=AOvVaw0--JoZjHgCe3ik1Db9b5nu&ust=1721588544771000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDG9Z-ntocDFQAAAAAdAAAAABAI" alt="X" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014799254035" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
