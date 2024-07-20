@@ -66,7 +66,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
   <a href="https://twitter.com/aRpAnDa74497753" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/x-5.svg" alt="X" width="48" height="48" />
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="X" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014799254035" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
