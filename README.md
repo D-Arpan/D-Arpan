@@ -83,7 +83,9 @@
 
 - 😄 He/Him
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/D-Arpan/D-Arpan/e85e4e608fdfa8530b517396b6b66a4c2a4b8884/github-snake.svg" style="width: 100%;">
+</div>
 
 
 
