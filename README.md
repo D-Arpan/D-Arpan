@@ -52,7 +52,9 @@
 - 🎮 I optimize my video game strategies using data analysis—because who says data science can't be fun?
 - 📚 Always in beta mode, constantly learning, evolving, and growing.
 
-<img src="https://github.com/D-Arpan/D-Arpan/blob/main/gitgif.gif?raw=true" style="width: 100%;">
+<div align="center">
+  <img src="https://github.com/D-Arpan/D-Arpan/blob/main/gitgif.gif?raw=true" style="width: 100%;">
+</div>
 
 ## Get in Touch
 
