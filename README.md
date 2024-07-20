@@ -66,7 +66,7 @@
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
   </a>
   <a href="https://twitter.com/aRpAnDa74497753" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014799254035" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" />
