@@ -1,5 +1,5 @@
 ### Hi there 👋, I am..
-![](https://github.com/D-Arpan/D-Arpan/blob/main/Gitbg.jpg?raw=true)
+![](https://github.com/D-Arpan/D-Arpan/blob/23795bea6a78d5f4e6c988fc6c331495cf0d90b6/git.jpg?raw=true)
 
 ## About Me
 
