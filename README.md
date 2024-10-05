@@ -58,7 +58,7 @@
 
 ## Get in Touch
 
-- 📫 **How to reach me:** You can find me right here on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/arpandas2003/).
+- 📫 **How to reach me:** You can find me right here on GitHub, visit my [portfolio website](https://d-arpan.onrender.com/), or connect with me on [LinkedIn](https://www.linkedin.com/in/arpandas2003/).
 - 💬 **Let's Chat:** Have a cool project or just want to geek out about data? Let's connect and make something amazing!
 
 <div align="center">
@@ -86,6 +86,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/D-Arpan/D-Arpan/e85e4e608fdfa8530b517396b6b66a4c2a4b8884/github-snake.svg" style="width: 100%;">
 </div>
-
-
-
